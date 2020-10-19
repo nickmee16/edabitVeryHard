@@ -2,9 +2,9 @@ public class TruncatablePrimes {
 
     public static void main(String[] args) {
 
-//        System.out.println(truncatable(9137));
-//        System.out.println(truncatable(5));
-//        System.out.println(truncatable(6043));
+        System.out.println(truncatable(9137));
+        System.out.println(truncatable(5));
+        System.out.println(truncatable(6043));
         System.out.println(truncatable(131));
 
     }
