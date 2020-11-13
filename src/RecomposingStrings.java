@@ -4,8 +4,8 @@ public class RecomposingStrings {
 
     public static void main(String[] args) {
 
-//        System.out.println(recompose("KiKdaola"));
-//        System.out.println(recompose("BaosdrOCfanada"));
+        System.out.println(recompose("KiKdaola"));
+        System.out.println(recompose("BaosdrOCfanada"));
         System.out.println(recompose("AhpewTxin"));
 
     }

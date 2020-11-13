@@ -2,11 +2,11 @@ public class NewNumbers {
 
     public static void main(String[] args) {
 
-//        System.out.println(isNew(3));
-//        System.out.println(isNew(30));
-//        System.out.println(isNew(321));
-//        System.out.println(isNew(123));
-//        System.out.println(isNew(125609));
+        System.out.println(isNew(3));
+        System.out.println(isNew(30));
+        System.out.println(isNew(321));
+        System.out.println(isNew(123));
+        System.out.println(isNew(125609));
         System.out.println(isNew(40003));
 
     }
